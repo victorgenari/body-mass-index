@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/victorgenari/body-mass-index/main/src/assets/images/projectImg.jpg">
+
 # Índice de Massa Corporal | React.js + Typescript:
 
 Um projeto desenvolvido no intuito de praticar o uso de Typescript em algo mais simples;
